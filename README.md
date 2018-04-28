@@ -24,5 +24,4 @@ The graph is then traversed to give the final output i.e. condensed notes of the
 The traversal starts at the first vertex of the graph (i.e. the vertex for the most important noun)
 It then recursively prints out the verbs and nouns to give the desired output.
 In cases where the weight of the edge is 0, the verb is printed first followed by the noun.
-In cases where the weight of the edge is 1, the noun is printed first followed by the verb and a placeholder pronoun. 
-
+In cases where the weight of the edge is 1, the noun is printed first followed by the verb and a placeholder pronoun.
